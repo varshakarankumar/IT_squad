@@ -1,0 +1,27 @@
+.item{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    align-items: center;
+    color: azure;
+    padding: 0.5cm;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+}
+li{
+    margin: 0;
+}
+.ul{
+    display: flex;
+    text-decoration: none;
+    /* margin: 0.5cm; */
+}
+a{
+    display: flex;
+    text-decoration: none;
+    padding: 4ch;
+    font-size: large;
+    color: white;
+}
